@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning at University Information Technology - VNU HCMC in Vietnam
 - 📫 How to reach me 
   - Email: cuclth2701@gmail.com
-  - Facebook: https://www.facebook.com/le.thi.hong.cuc.2701
+  - Facebook: https://www.facebook.com/LTHC9/
+  - Linkedin: https://www.linkedin.com/in/lthc9/
