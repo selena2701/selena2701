@@ -1,8 +1,11 @@
-- 👋Hi, I'm Hong Cuc but you can call me to Selena
-- 👀 I’m interested in Java Softwave Engineer
-- 🌱 I’m currently learning at University Information Technology - VNU HCMC in Vietnam
-- 📫 How to contact me 
-  - Email: cuclth2701@gmail.com
-  - Facebook: https://www.facebook.com/LTHC9/
-  - Linkedin: https://www.linkedin.com/in/lthc9/
+# 👋 Hi, I’m Hong Cuc (Selena)
 
+* 🎓 Currently pursuing a Master’s degree in **Computer Science** at **Ho Chi Minh City University of Technology (HCMUT)**
+* 💻 Aspiring **Java Software Engineer** with strong interest in **backend systems, cloud computing, and scalable web applications**
+* 🌱 Continuously learning and building projects with **Java, Spring Boot, and React**
+* 🤝 Open to collaboration on **open-source projects, internships, or exciting software engineering opportunities**
+
+### 📫 Connect with me
+
+* 📧 Email: [cuclth2701@gmail.com](mailto:cuclth2701@gmail.com)
+* 🌐 LinkedIn: [linkedin.com/in/lthc9](https://www.linkedin.com/in/lthc9/)
