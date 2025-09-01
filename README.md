@@ -9,4 +9,3 @@
 
 * 📧 Email: [cuclth2701@gmail.com](mailto:cuclth2701@gmail.com)
 * 🌐 LinkedIn: [linkedin.com/in/lthc9](https://www.linkedin.com/in/lthc9/)
-* 📘 Facebook: [facebook.com/LTHC9](https://www.facebook.com/LTHC9/)
