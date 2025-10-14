@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Hong Cuc (Selena)
+# 👋 Hi, I’m Hong Cuc (Nausicaa)
 
 * Currently pursuing a Master’s degree in **Computer Science** at **Ho Chi Minh City University of Technology (HCMUT)**
 * Aspiring **Frontend Engineer** with expertise in **ReactJS, Angular, PrimeNG/PrimeReact, Storybook, and modern build tools (Webpack, ESBuild, Vite)**
