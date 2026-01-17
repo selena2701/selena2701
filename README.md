@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Hong Cuc (Nausicaa)
 
-* Master’s student in Computer Science** with a background in software engineering**
+* Master’s student in Computer Science with a background in software engineering
 * Currently working mainly with frontend development using Angular and React, and learning about scalable UI architectures
 * Have experience participating in projects that integrate Generative AI features such as chat assistants and semantic search
 * Interested in learning more about AI systems, especially topics related to reasoning, evaluation, and intelligent agents
